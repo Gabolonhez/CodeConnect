@@ -13,9 +13,9 @@ Plataforma para publicar projetos
       
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
+`HTML`
 
-`CSS`: Utilizado para estilização da interface do aplicativo.
+`CSS`
 
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
+`JavaScript`
 
