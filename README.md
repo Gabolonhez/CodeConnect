@@ -7,8 +7,8 @@ Plataforma para publicar projetos
 
 ## 🎯 Funcionalidades
 
-- [x] `Anexar imagem`: Permite os usuários selecionarem uma imagem. <br>
-- [x] `Adicionar informações sobre o projeto`: Permite os usuários colocarem nome, descrição e tags do projeto. 
+- [x] Permite os usuários selecionarem e anexarem uma imagem. <br>
+- [x] Permite os usuários colocarem informações como nome, descrição e tags do projeto. 
 
       
 ## 💻 Tecnologias 
